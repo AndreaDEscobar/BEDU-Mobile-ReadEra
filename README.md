@@ -1,7 +1,7 @@
 # BEDU-Mobile-ReadEra
 
 
-INTENGRANTES:
+#INTENGRANTES:
 *Andrea Domínguez Escobar
 *Anthony Ibrail Ortega Méndez
 *María De Los Ángeles Chía Basaldúa
