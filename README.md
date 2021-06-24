@@ -1,21 +1,14 @@
 # BEDU-Mobile-ReadEra
 
 
+App que nos ayuda a leer libros, revistas, libros de texto y documentos
 
-_App que nos ayuda a leer libros, revistas, libros de texto y documentos
+## INTEGRANTES ✒️
 
-## INTEGRANTES 🚀
-
-_Andrea Domínguez Escobar
-_
-
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Andrea Domínguez Escobar** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **María Ketzalli Gonzáez Acevedo** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* * **Antony Ibrail Ortega Méndez** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* * **María De Los Ángeles Chía Basaldúa** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
 
 
